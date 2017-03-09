@@ -1,2 +1,6 @@
 # sample-php-Symfony
-sa
+sample
+
+##Symfony
+http://symfony.com/
+
